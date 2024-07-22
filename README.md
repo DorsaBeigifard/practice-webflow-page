@@ -4,7 +4,7 @@ Practiced using HTML/CSS (with Flex) designing a responsive page like webflow we
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/DorsaBeigifard/practice-webflow-page)
-- Live Site URL: [Live site URL here](https://dorsabeigifard.github.io/Fpractice-webflow-page/)
+- Live Site URL: [Live site URL here](https://dorsabeigifard.github.io/practice-webflow-page/)
 
 ### Screenshot
 
